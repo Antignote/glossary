@@ -1,0 +1,16 @@
+.words-right {
+  color: #3eb83e;
+}
+
+.words-wrong {
+  color: #dd3333;
+  font-style: italic;
+}
+
+.words-input {
+  margin-right: 6px;
+}
+
+.words-button {
+  margin-right: 6px;
+}
