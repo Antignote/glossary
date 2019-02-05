@@ -7,6 +7,7 @@ import './App.css';
 class App extends Component {
   state = {
     direction: 'sv',
+    isShuffle: false,
     glossary: [
       {
         title: ['Calva', 'Hjärnskål'],
@@ -28,23 +29,26 @@ class App extends Component {
           ['Stigbygeln',	'Stapes'],
         ]
       }
-    ]
+    ],
   }
 
   handleSelectDirection = (direction) => {
     this.setState({ direction });
   };
 
+  handleSelectShuffle = (isShuffle) => {
+    this.setState({ isShuffle });
+  };
+
   render() {
-    const { direction, glossary } = this.state;
-    const categoryOrder = shuffle(Array.from(Array(glossary.length).keys()));
-    const randomIndex = 1;
-    const category = glossary[randomIndex];
+    const { direction, glossary, isShuffle } = this.state;
+    const categoryIndexes = Array.from(Array(glossary.length).keys());
+    const categoryOrder = isShuffle ? shuffle(categoryIndexes) : categoryIndexes;
     return (
       <Fragment>
-        <Choise direction={direction} onSelect={this.handleSelectDirection} />
+        <Choise direction={direction} onSelect={this.handleSelectDirection} isShuffle={isShuffle} onSelectShuffle={this.handleSelectShuffle} />
         {categoryOrder.map(i => (
-          <Category key={i} direction={direction} title={glossary[i].title} words={glossary[i].words} />
+          <Category key={i} direction={direction} title={glossary[i].title} words={glossary[i].words} isShuffle={isShuffle} />
         ))}
       </Fragment>
     );
