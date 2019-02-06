@@ -1,0 +1,181 @@
+# Introduktion
+## Huvudets ben
+Cranium, Skalle (kranium)
+Os frontale, Pannbenet
+Os parietale, Hjässbenet
+Os occipitale, Nackbenet
+Os sphenoidale, Kilbenet
+Os temporale, Tinningbenet
+Os nasale, Näsbenet
+Os zygomaticum, Okbenet/Kindbenet
+Maxilla, Överkäksbenet
+Mandibula, Underkäksbenet
+
+## Ryggradens ben
+Columna vertebralis, Ryggrad
+Vertebrae cervicales 1-7 (C1-C7), Halskota/Cervikalkota 1-7
+Vertebrae lumbales 1-5 (L1-L5), Ländkota1-5
+Vertebrae thoracicae 1-12 (Th1-12), Bröstkota/Torakalkota 1-12
+Os Sacrum, Korsbenet
+Os Coccygis, Svansbenet
+Corpus vertebrae, Kotkropp
+Arcus vertebrae, Kotbåge
+Canalis vertebralis, Kotkanalen
+
+## Bröstkorgens ben
+Os costa(e), revben
+Sternum, bröstben
+
+## Ben i skulderregionen
+Clavicula, nyckelbenet
+Scapula, skulderbladet
+
+## Armens ben
+Humerus, överarmsbenet
+Radius, strålbenet
+Ulna, armbågsbenet
+
+## Bäckenents ben
+Os coxae, höftbenet
+
+## Benets ben
+Femur, lårbenet
+Patella, knäskålen
+Fibula, vadbenet
+Tibia, skenbenet
+
+# Nervsystemet
+
+## Hjärnan
+Encephalon, hjärnan
+Cerebrum/Telencephalon, Storhjärnan
+Corpus callosum, Hjärnbalken
+Plexus choroideus, vävnad i tredje, fjärde och de laterala hjärnventriklarna
+Cerebellum, Lillhjärnan
+Diencephalon, Mellanhjärnan
+Corpus pineale, Tallkottskörteln/Epifysen
+Thalamus, Talamus
+Hypothalamus, Hypotalamus
+Glandula pituitaria/Hypophysis, Hypofysen
+Truncus encephalicus, Hjärnstammen
+Mesencephalon, Mitthjärnan
+Pons, Hjärnbryggan
+Medulla oblongata, Förlängda märgen
+
+Aqueductus cerebri, Akvedukten
+Dura mater, Hårda (hjärn)hinnan
+Arachnoidea, Spindelvävshinnan
+Pia mater, Mjuka (hjärn)hinnan
+Falx cerebri, Hjärnskäran
+
+## Ryggmärgen
+Medulla spinalis, Ryggmärgen
+
+## Perifera nervsystemet
+Plexus brachialis, Överarmsflätan
+Cauda equina, Hästsvansen
+
+# Andningssystemet
+## Bihålor
+Sinus frontalis, pannbens(bi)hålan
+Sinus maxillaris, överkäks(bi)hålan
+
+## Luftvägarna
+Pharynx, svalget
+Epiglottis, struplocket
+Larynx, struphuvud
+Trachea, Luftstrupen
+
+## Lungan
+Pulmo, lunga
+Bronchus, bronk
+Hilum pulmonis/radix pulmonis, lungroten
+Apex pulmonis, lungans spets
+Basis pulmonis, lungans bas
+Lobus inferior pulmonis, lungans nedre lob
+Lobus medius pulmonis, lungans mellersta lob (enbart höger lunga)
+Lobus superior pulmonis, lungans övre lob
+
+## Bröstkorgen
+Thorax, bröstregionen (= bröstkorg + brösthåla)
+Os costa(e), revben
+Sternum, bröstbenet
+Musculus (M.) diaphragma, diafragma/ mellangärdesmuskeln
+Musculi (mm.) intercostales externi, yttre revbensmuskler/interkostalmuskler
+Mm. intercostales interni, inre revbensmuskler/interkostalmuskler
+Nervus phrenicus, Mellangärdesnerven
+
+## Halsmuskler
+M. sternocleidomastoideus, Den sneda halsmuskeln/nickmuskeln
+
+# Cirkulationssystemet
+## Hjärtat
+Cor, Hjärta
+Apex cordis, hjärtats spets
+Atrium, förmark
+Ventriculus, kammare
+Valva tricuspidalis, trikuspidalklaffen
+Valva trunci pulmonalis, Pulmonalisklaffen
+Valva mitralis/ Valva bicuspidalis, mitralklaffen / bikuspidalklaffen
+Valva aortae, Aortaklaffen
+Nodus atrioventricularis, AV-knuta
+Nodus sinuatrialis, Sinusknuta
+Nervus vagus, Vagusnerven
+Arteria (A.) coronaria, kransartären
+Ramus interventricularis anterior, gren av vänster kransartär
+Sinus coronarius, koronarsinus
+
+## Lungkretsloppet
+Truncus pulmonalis, lungpulsådern
+A. pulmonalis, lungartär
+Venae (Vv.) pulmonales, Lungvener
+
+## Kroppspulsådern
+Aorta, stora kroppspulsådern
+Aorta ascendens, uppåtgående aortan
+Arcus aortae, aortabågen
+Aorta descendens, nedåtgående aortan
+Aorta abdominalis, bukaortan
+
+## Kroppspulsåders förgreningar i bröstet och buken
+Truncus brachiocephalicus, huvud-armartären
+A. carotis communis, halsartären
+A. subclavia, nyckelbensartären
+Truncus coeliacus, stora bukartären
+A. renalis, njurartär
+A. mesenterica superior, övre tarmkäxartären
+A. mesenterica inferior, undre tarmkäxartären
+
+## Armens artärer
+A. axillaris, armhåleartären/axelartären
+A. brachialis, armartären
+A. radialis, strålbensartären
+A. ulnaris, armbågsartär
+
+## Halsen och huvudets artärer
+A. carotis externa, yttre huvudartären
+A. carotis interna, inre huvudartären
+A. vertebralis, kotartären
+A. cerebri media, mellersta storhjärnsartären
+A. temporalis superficialis, tinningsartären
+
+## Bäckenets, benets och fotens artärer
+A. iliaca communis, gemensamma tarmbensartär
+A. iliaca externa, yttre tarmbensartär
+A. iliaca interna, inre tarmbensartär
+A. femoralis, lårartären
+A. poplitea, knävecksartär
+A. tibialis anterior, främre skenbensartär
+A. tibialis posterior, skenbensartären
+A. dorsalis pedis, fotryggsartären
+
+## Vener
+Vena (V.) basilica, kungsvenen (finns i överarmen)
+V. cava inferior , nedre hålvenen
+V. cava superior, övre hålvenen
+V. cephalica, ?
+V. femoralis, lårvenen
+V. jugularis externa, yttliga halsvenen
+V. jugularis interna, djupa halsvenen
+V. mediana cubiti, armvecksvenen
+V. saphena magna, stora rosenvenen

@@ -31,7 +31,7 @@ class Word extends Component {
     const { vocable, correct } = this.props;
     const { answer, isFinished, isCorrect } = this.state;
     return (
-      <form onSubmit={this.handleSubmit}>
+      <form className="words" onSubmit={this.handleSubmit}>
         <fieldset disabled={isFinished}>
           <legend>{vocable}</legend>
           <input className="words-input" type="text" value={answer} onChange={this.handleChange}/>
