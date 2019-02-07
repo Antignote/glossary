@@ -34,7 +34,7 @@ class Word extends Component {
       <form className="words" onSubmit={this.handleSubmit}>
         <fieldset disabled={isFinished}>
           <legend>{vocable}</legend>
-          <input className="words-input" type="text" value={answer} onChange={this.handleChange} autoComplete="off"/>
+          <input className="words-input" type="text" value={answer} onChange={this.handleChange} autoComplete="off" autoCorrect="off" spellCheck="false" autoCapitalize="off"/>
           <button className="words-button" onClick={this.handleSubmit}>Svara</button>
           {isFinished && isCorrect ? <span className="words-right">Rätt! {isCorrect < 2 && correct} </span> : null}
           {isFinished && !isCorrect ? <span className="words-wrong">{correct}</span> : null}
