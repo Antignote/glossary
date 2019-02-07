@@ -35,7 +35,7 @@ class App extends Component {
       <div className={classNames.join(' ')}>
         <Choise direction={direction} onSelect={this.handleSelectDirection} isShuffle={isShuffle} onSelectShuffle={this.handleSelectShuffle} isTopicsHidden={isTopicsHidden} onSelectHideTopics={this.handleSelectHideTopics} />
 
-        <em>Tips! Klicka på de suddiga rubrikerna för att ta reda på kategorin</em>
+        <em style={{display: isTopicsHidden ? 'none' : ''}}>Tips! Klicka på de suddiga rubrikerna för att ta reda på kategorin</em>
 
         {categoryOrder.map(i => (
           <Category key={i} direction={direction} title={glossary[i].title} words={glossary[i].words} isShuffle={isShuffle} />

@@ -50,7 +50,7 @@ Tibia, skenbenet
 Encephalon, hjärnan
 Cerebrum/Telencephalon, Storhjärnan
 Corpus callosum, Hjärnbalken
-Plexus choroideus, vävnad i tredje, fjärde och de laterala hjärnventriklarna
+Plexus choroideus, Vävnad i tredje, fjärde och de laterala hjärnventriklarna
 Cerebellum, Lillhjärnan
 Diencephalon, Mellanhjärnan
 Corpus pineale, Tallkottskörteln/Epifysen
